@@ -1,5 +1,5 @@
 # Usabilidad y Accesibilidad
-## Seminario DCU: Gestión de tiempos de estudio 
+## Seminario DCU: Gestión de tiempos de estudio GRUPO 3
 
 ╔═══════════════════════════════════════════════════════════════════╗
 
