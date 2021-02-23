@@ -68,7 +68,7 @@ El proyecto fue desarrollado por el grupo 3 de la asignatura de “Usabilidad y 
 
 - **La entrevista**: Consta de una serie de preguntas que se planteó al grupo 4, nuestro grupo usuario asignado. El objetivo de esta entrevista era conseguir información más detallada y personal mediante el trato más cercano que nos otorga una entrevista, dichas preguntas constan en:
 
-⋆⌘⋆ [Entrevista al grupo 4](https://drive.google.com/file/d/1BDqCBbbvgyKDMrS5Hr5WdOky66GlRYYI/view)
+『 』 [Entrevista al grupo 4](https://drive.google.com/file/d/1BDqCBbbvgyKDMrS5Hr5WdOky66GlRYYI/view)
 
 
 
