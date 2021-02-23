@@ -20,16 +20,16 @@
 
 ### Índice:
 
-#### Resumen	
-#### Introducción.	
-#### Metodología.	
-#### Resultados y discusión.
-##### Tareas de la fase de investigación.	
-#### Personajes, perfiles de usuario y especificación de requisitos.	
-#### Repositorio en github.	
-#### Tarea de modelado.	
-#### Conclusiones.	
-#### Bibliografía.	
+- Resumen	
+- Introducción.	
+- Metodología.	
+- Resultados y discusión.
+  - Tareas de la fase de investigación.	
+- Personajes, perfiles de usuario y especificación de requisitos.	
+- Repositorio en github.	
+- Tarea de modelado.	
+- Conclusiones.	
+- Bibliografía.	
 
 
 
