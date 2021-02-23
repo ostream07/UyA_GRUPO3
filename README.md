@@ -84,3 +84,4 @@ Nos marcamos como meta conocer de las características de nuestro perfil de usua
 
 『 』[Encuesta del grupo 3](https://docs.google.com/forms/d/e/1FAIpQLScNKs04vy4j5TirGPHQ0BHtIniO4bEkv-n0DT9UqcUs6bl5PA/viewform)
 
+
