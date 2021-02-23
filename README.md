@@ -59,7 +59,7 @@ El proyecto fue desarrollado por el grupo 3 de la asignatura de “Usabilidad y 
 
 - **La encuesta**: Consta de 15 preguntas que se plantearon a estudiantes del grado de Ingeniería Informática, a nuestro equipo de trabajo y al grupo usuario que se nos asignó (grupo 4).
 
-- **Tormenta de ideas**: En una reunión los desarrolladores plantearon una serie de utilidades y funcionalidades que podrían ser de mayor interés para aquellos usuarios que busquen una app de gestión de tiempos. Esta tormenta de ideas se realizó mediante “Post-it” en Google Jamboard, asentando las bases del futuro diseño.
+- **Tormenta de ideas**: En una reunión los desarrolladores plantearon una serie de utilidades y funcionalidades que podrían ser de mayor interés para aquellos usuarios que busquen una app de gestión de tiempos. Esta tormenta de ideas se realizó mediante _Post-it_ en Google Jamboard, asentando las bases del futuro diseño.
 
 ⋆⌘⋆ ![Tormenta de ideas](https://drive.google.com/file/d/1S_scHH9TZLazUT4JUVa6iL5kj65ngy4t/view)
 
