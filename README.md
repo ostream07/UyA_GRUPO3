@@ -90,7 +90,7 @@ Nos marcamos como meta conocer de las características de nuestro perfil de usua
 
 Como resultado de esta encuesta y siguiendo la filosofía del DCU, se priorizaron algunos requisitos indispensables que debería tener nuestra aplicación, basándonos en las respuestas de los usuarios. Entre las distintas opciones propuestas (sugeridas en nuestra tormenta de ideas), se podían elegir tantas utilidades como vieran necesario, siendo la de mayor relevancia aquella que fuera seleccionada un mayor número de veces por los usuarios y la de menor relevancia la menos escogida. Podemos apreciar el resultado en el siguiente gráfico:
 
-『 』[Gráfico de requisitos de la aplicación](https://drive.google.com/file/d/1Ss4mK3uZEQOsTx0o6ARKpnq7BFKeLlE0/view)
+⋆⌘⋆ ![Gráfico de requisitos de la aplicación](https://drive.google.com/file/d/1Ss4mK3uZEQOsTx0o6ARKpnq7BFKeLlE0/view)
 
 
 
