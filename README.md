@@ -64,7 +64,7 @@ El proyecto fue desarrollado por el grupo 3 de la asignatura de “Usabilidad y 
 
 - **Tormenta de ideas**: En una reunión los desarrolladores plantearon una serie de utilidades y funcionalidades que podrían ser de mayor interés para aquellos usuarios que busquen una app de gestión de tiempos. Esta tormenta de ideas se realizó mediante _Post-it_ en Google Jamboard, asentando las bases del futuro diseño.
 
-⋆⌘⋆ ![Tormenta de ideas](https://i.imgur.com/6UQ8X3z.jpg)
+![Tormenta de ideas](https://i.imgur.com/6UQ8X3z.jpg)
 
 - **La entrevista**: Consta de una serie de preguntas que se planteó al grupo 4, nuestro grupo usuario asignado. El objetivo de esta entrevista era conseguir información más detallada y personal mediante el trato más cercano que nos otorga una entrevista, dichas preguntas constan en:
 
@@ -90,7 +90,7 @@ Nos marcamos como meta conocer de las características de nuestro perfil de usua
 
 Como resultado de esta encuesta y siguiendo la filosofía del DCU, se priorizaron algunos requisitos indispensables que debería tener nuestra aplicación, basándonos en las respuestas de los usuarios. Entre las distintas opciones propuestas (sugeridas en nuestra tormenta de ideas), se podían elegir tantas utilidades como vieran necesario, siendo la de mayor relevancia aquella que fuera seleccionada un mayor número de veces por los usuarios y la de menor relevancia la menos escogida. Podemos apreciar el resultado en el siguiente gráfico:
 
-⋆⌘⋆ ![Gráfico de requisitos de la aplicación](https://i.imgur.com/VGLQTJI.jpg)
+![Gráfico de requisitos de la aplicación](https://i.imgur.com/VGLQTJI.jpg)
 
 Ordenándolos por intención de voto, quedarían de la siguiente forma:
 
@@ -103,6 +103,12 @@ Ordenándolos por intención de voto, quedarían de la siguiente forma:
 7.Temporizador con la posibilidad de organizar periodos de estudios y de descansos.
 8. Posibilidad de obtener premios por cumplir metas.
 9. Minimizador de notificaciones.
+
+Otros aspectos relevantes que pudimos extraer es que la mayoría de los usuarios quieren organizar su horario priorizando por el tiempo restante hasta la fecha de entrega, es decir, quieren poder organizar el tiempo dedicado a las asignaturas en base a la proximidad de los entregables o pruebas evaluativas. Si a esto le añadimos que consideran a los recordatorios de tareas pendientes con cierto tiempo de antelación como segunda utilidad más importante dentro de una aplicación de gestión de tiempos, podemos concluir que para ellos un factor importante a tener en cuenta en una app como la que queremos desarrollar son las fechas y los tiempos.
+
+Finalmente, a fin de conseguir recopilar información cualitativa en muestras pequeñas, preparamos una serie de preguntas a modo de entrevista que se realizó y pasó al grupo 4, las cuales respondieron cada uno de los integrantes del equipo, además de cumplimentar también nuestra encuesta inicial.
+
+Pudimos contrastar datos y apreciamos coincidencias entre nuestras propuestas sugeridas en la reunión donde establecimos una serie de posibles funcionalidades y lo que los usuarios demandaban. Esto además también iba en línea con las respuestas obtenidas de la entrevista.
 
 
 
