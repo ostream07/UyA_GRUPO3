@@ -26,10 +26,13 @@
 - Resultados y discusión.
   - Tareas de la fase de investigación.	
 - Personajes, perfiles de usuario y especificación de requisitos.	
+  - Perfiles de usuario.
+  - Personajes.
+  - Especificación de requisitos. 
 - Repositorio en github.	
 - Tarea de modelado.	
 - Conclusiones.	
-- Bibliografía.	
+- Webgrafía.	
 
 
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
@@ -83,5 +86,11 @@ Nuestro primer objetivo era recopilar información cuantitativa así como un mue
 Nos marcamos como meta conocer de las características de nuestro perfil de usuario objetivo, los estudiantes del Grado en Ingeniería Informática de la ULL consiguiendo así la identificación de los primeros requisitos funcionales y no funcionales del proyecto. Para ello se diseñaron 15 preguntas dirigidas tanto a nosotros, el equipo de desarrolladores, como a los usuarios de nuestra muestra y al grupo 4, nuestros usuarios asignados. La encuesta fue resuelta por 15 usuarios. Dicha encuesta nos proporcionó datos como los hábitos de los estudiantes, sus horarios de estudio, principales distracciones, etc. Aquí el link de la encuesta:
 
 『 』[Encuesta del grupo 3](https://docs.google.com/forms/d/e/1FAIpQLScNKs04vy4j5TirGPHQ0BHtIniO4bEkv-n0DT9UqcUs6bl5PA/viewform)
+
+
+Como resultado de esta encuesta y siguiendo la filosofía del DCU, se priorizaron algunos requisitos indispensables que debería tener nuestra aplicación, basándonos en las respuestas de los usuarios. Entre las distintas opciones propuestas (sugeridas en nuestra tormenta de ideas), se podían elegir tantas utilidades como vieran necesario, siendo la de mayor relevancia aquella que fuera seleccionada un mayor número de veces por los usuarios y la de menor relevancia la menos escogida. Podemos apreciar el resultado en el siguiente gráfico:
+
+『 』[Gráfico de requisitos de la aplicación](https://drive.google.com/file/d/1Ss4mK3uZEQOsTx0o6ARKpnq7BFKeLlE0/view)
+
 
 
