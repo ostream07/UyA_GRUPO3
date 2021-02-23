@@ -92,5 +92,18 @@ Como resultado de esta encuesta y siguiendo la filosofía del DCU, se priorizaro
 
 ⋆⌘⋆ ![Gráfico de requisitos de la aplicación](https://drive.google.com/file/d/1Ss4mK3uZEQOsTx0o6ARKpnq7BFKeLlE0/view)
 
+Ordenándolos por intención de voto, quedarían de la siguiente forma:
+
+1. Calendario semanal para la organización de horas de estudios con la posibilidad de priorizar tareas y asignaturas.
+2. Recordatorio de tareas por entregar con 24 horas de antelación(configurable).
+3. Posibilidad de establecer metas.
+4. Lista de tareas por hacer a las que se le pueda asignar un horario.
+5. Agenda con el correo del profesorado de las asignaturas y la ubicación de sus despachos.
+6. Informe de productividad tanto diario como semanal, que muestra tus logros.
+7.Temporizador con la posibilidad de organizar periodos de estudios y de descansos.
+8. Posibilidad de obtener premios por cumplir metas.
+9. Minimizador de notificaciones.
+
+
 
 
