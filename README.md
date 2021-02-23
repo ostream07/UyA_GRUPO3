@@ -60,10 +60,27 @@ El proyecto fue desarrollado por el grupo 3 de la asignatura de “Usabilidad y 
 - **La encuesta**: Consta de 15 preguntas que se plantearon a estudiantes del grado de Ingeniería Informática, a nuestro equipo de trabajo y al grupo usuario que se nos asignó (grupo 4).
 
 - **Tormenta de ideas**: En una reunión los desarrolladores plantearon una serie de utilidades y funcionalidades que podrían ser de mayor interés para aquellos usuarios que busquen una app de gestión de tiempos. Esta tormenta de ideas se realizó mediante “Post-it” en Google Jamboard, asentando las bases del futuro diseño.
+
 ⋆⌘⋆ ![Tormenta de ideas](https://drive.google.com/file/d/1S_scHH9TZLazUT4JUVa6iL5kj65ngy4t/view)
 
 - **La entrevista**: Consta de una serie de preguntas que se planteó al grupo 4, nuestro grupo usuario asignado. El objetivo de esta entrevista era conseguir información más detallada y personal mediante el trato más cercano que nos otorga una entrevista, dichas preguntas constan en:
 
 ⋆⌘⋆ ![Entrevista al grupo 4](https://drive.google.com/file/d/1BDqCBbbvgyKDMrS5Hr5WdOky66GlRYYI/view)
 
+
+
+
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+
+### Resultados y discusión
+
+#### Tareas de la fase de investigación
+
+Nuestro primer objetivo era recopilar información cuantitativa así como un muestra representativa de datos que pudieran ser de utilidad para el desarrollo de nuestro proyecto. Uno de los  métodos de investigación mayormente empleados y con el que los usuarios suelen estar familiarizados son las encuestas. 
+
+
+Nos marcamos como meta conocer de las características de nuestro perfil de usuario objetivo, los estudiantes del Grado en Ingeniería Informática de la ULL consiguiendo así la identificación de los primeros requisitos funcionales y no funcionales del proyecto. Para ello se diseñaron 15 preguntas dirigidas tanto a nosotros, el equipo de desarrolladores, como a los usuarios de nuestra muestra y al grupo 4, nuestros usuarios asignados. La encuesta fue resuelta por 15 usuarios. Dicha encuesta nos proporcionó datos como los hábitos de los estudiantes, sus horarios de estudio, principales distracciones, etc. Aquí el link de la encuesta:
+
+『 』[Encuesta del grupo 3](https://docs.google.com/forms/d/e/1FAIpQLScNKs04vy4j5TirGPHQ0BHtIniO4bEkv-n0DT9UqcUs6bl5PA/viewform)
 
