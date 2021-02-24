@@ -126,4 +126,4 @@ Tras la realización del estudio de los datos obtenidos de nuestra encuesta y la
 Podríamos clasificarlos en alumnos de ingeniería informática, en su mayoría entre los 18 y los 23 años que se encuentran entre tercer y cuarto año de carrera, muchos repitiendo alguna asignatura, con varias distracciones y que no gestionan su tiempo con ninguna app. Además, en esta muestra también podemos ver que diariamente dedican al estudio entre menos de una hora a 2 horas pero en época de exámenes dedican mayoritariamente más de 3 horas. 
 La diferencia principal de este grupo radica en que un poco más de la mitad de los usuarios que conforman la muestra no suele organizarse con un plan para distribuir el tiempo que quiere dedicarle a cada asignatura antes de comenzar a estudiar, siendo por otra parte aunque un número ligeramente inferior aquellos que sí organizan y estructuran su tiempo, estableciendo un horario de tiempos para cada materia, como podemos ver en el gráfico mostrado a continuación:
 
-
+![Organización de tiempo antes de estudiar](https://i.imgur.com/DvX4EQ6.jpg)
