@@ -127,3 +127,74 @@ Podríamos clasificarlos en alumnos de ingeniería informática, en su mayoría 
 La diferencia principal de este grupo radica en que un poco más de la mitad de los usuarios que conforman la muestra no suele organizarse con un plan para distribuir el tiempo que quiere dedicarle a cada asignatura antes de comenzar a estudiar, siendo por otra parte aunque un número ligeramente inferior aquellos que sí organizan y estructuran su tiempo, estableciendo un horario de tiempos para cada materia, como podemos ver en el gráfico mostrado a continuación:
 
 ![Organización de tiempo antes de estudiar](https://i.imgur.com/DvX4EQ6.jpg)
+
+
+#### Personajes
+
+El propósito de los personajes es crear arquetipos que modelan a usuarios reales para poder ayudar a los diseñadores a que tengan una idea realista de estos a lo largo del proceso de diseño. Por ello, los personajes incluyen características como factores demográficos y niveles de experiencias específicas de un perfil de usuario. En su creación, también podemos tener en cuenta otro tipo de información adicional como su conducta, actitudes, motivaciones y metas.
+
+Teniendo esto en cuesta y basándonos en los datos recabados, hemos desarrollado una serie de personajes:
+
+* **Personaje 1**: será Elsa Pato, una alumna de 19 años de segundo curso que no organiza su tiempo de estudio, se distrae fácilmente y busca alguna aplicación que le ayude a organizarse. 
+
+* **Personaje 2**: será Alan Brito Delgado, un alumno de 23 años de cuarto curso al que le quedan algunas asignaturas de 3 curso, este se organiza parcialmente y busca alguna aplicación que le ayude a mejorar su rendimiento académico. 
+
+* **Personaje 3**: será Eddy Ficio, un profesor del grado que está interesado en conocer cómo influye en el rendimiento las horas de estudio que le dedican los alumnos a su asignatura.
+
+
+#### Especificación de requisitos
+
+Tras la fase de investigación, y la priorización de los usuarios de ciertas utilidades en la aplicación, se detallan los siguientes requisitos identificados:
+
+- Funcionales:
+  - Se dispondrá de calendario semanal para la organización de horas de estudios con la posibilidad de priorizar tareas y asignaturas.
+  - Habrá un recordatorio de tareas por entregar que se podrá configurar para que avise con cierto tiempo de antelación a la fecha límite establecida para dicha tarea.
+  - La posibilidad de establecer metas diarias, semanales, etc. para incentivar los objetivos del estudiante.
+  - Lista de tareas por hacer a las que se le pueda asignar un horario.
+  - Agenda con el correo del profesorado de las asignaturas y la ubicación de sus despachos.
+  - Informe de productividad tanto diario como semanal, que muestra los logros del usuario.
+  - Temporizador con la posibilidad de organizar periodos de estudios y de descansos.
+  - Posibilidad de obtener premios por cumplir metas, como disponibilidad de playlist de música para estudiar, canjear premios, etc.
+  - Minimizador de notificaciones para desconcentrar lo menos posible al usuario en sus horas de estudio.
+ 
+- No funcionales. Estos requisitos se recogieron tras la entrevista con el grupo de usuarios:
+  - La aplicación debe ser fácil de entender, sencilla de manejar y que motive a usarla.
+  - Diseño y funciones atractivas pero sin exagerar para cautivar al usuario de usarla pero sin ser motivo de distracción.
+   
+   
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+
+### Repositorio en github
+
+En este apartado se incluye un enlace al repositorio en GitHub del proyecto de grupo:
+
+『 』[Enlace repositorio GitHub](https://github.com/alu0100890402/UyA)
+
+
+
+
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+
+### Conclusiones
+
+- A la hora de aplicar Diseño Centrado en el Usuario en el proyecto, se debe tener en cuenta la experiencia de los usuarios, así como su entorno para el correcto funcionamiento de dicho de este. En el caso de una aplicación de gestión de tiempos de un estudiante, es necesario el conocimiento de su carga de trabajo, horas empleadas en sus estudios, horas empleadas en estudiar asignaturas en tiempos de exámenes, sus prioridades, sus distracciones y qué es lo que principalmente busca en aplicaciones de esta índole.
+
+- La mayoría de estudiantes que realizaron la encuesta no organiza estructuradamente su tiempo  con todas las actividades que quiere realizar a lo largo del día ni organiza el tiempo que va a dedicar a cada asignatura antes de empezar el estudio. Indicando la necesidad de integrar en sus ámbitos de estudio aplicaciones de gestión.
+
+- Se pueden poner en práctica diversas técnicas que pueden aplicarse durante el desarrollo del proyecto para lograr un diseño del producto centrado en el usuario correcto.
+
+
+
+
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+
+### Resumen
+- [http://www.nosolousabilidad.com/manual/3.htm]
+- [https://www.iebschool.com/blog/diseno-centrado-en-el-usuario-analitica-usabilidad/]
+- [https://blog.hubspot.es/marketing/diseno-centrado-usuario]
+- [https://ideasdi.com/recursos/diseno-centrado-en-el-usuario/]
+- [http://www.uxables.com/diseno-ux-ui/diseno-centrado-en-el-usuario-dcu-todas-las-claves-del-proceso/]
+- [https://www.vanessaestorach.com/como-tener-una-buena-idea-para-crear-una-aplicacion-movil-de-exito/]
