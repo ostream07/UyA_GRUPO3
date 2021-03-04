@@ -14,4 +14,4 @@
 
 > - [Seminario 1: DCU](https://github.com/alu0100890402/UyA_GRUPO3/blob/seminarios/Seminario%201:%20DCU.md)
 > - [Seminario 2: uso web por personas con disfuncionalidad](https://github.com/alu0100890402/UyA_GRUPO3/blob/seminarios/Seminario%202:%20Uso_web_personas_con_disfuncionalidad.md)
-> - [Práctica: Uso del navegador para el desarrollo web] ()
+> - [Práctica: Uso del navegador para el desarrollo web] (https://github.com/alu0100890402/UyA_GRUPO3/blob/seminarios/Pr%C3%A1ctica:%20Uso_del_navegador_para_el_desarrollo_web.md)
