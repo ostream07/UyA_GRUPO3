@@ -46,7 +46,7 @@ En esta práctica aprenderemos a usar los navegadores (Google Chrome y Firefox) 
 Peticiones de consulta: **GET**
 > - Firefox:
 
-![https://i.imgur.com/7kXvwx3.jpg]
+![](https://i.imgur.com/7kXvwx3.jpg)
 
 > - Chrome:
 
