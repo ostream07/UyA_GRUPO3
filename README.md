@@ -20,4 +20,5 @@
 
 ### ENLACES A SEMINARIOS
 
+> - [https://github.com/alu0100890402/UyA_GRUPO3/blob/seminarios/Seminario%201:%20DCU.md]
 > - []
