@@ -20,4 +20,4 @@
 
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ### ENLACE AL GITHUB DEL PROTOTIPO WEB
-> - [GitHub Prototipo web](https://github.com/alu0101202952/UyA_Grupo3_Prototipo_Web)
+> - [GitHub Prototipo web](https://github.com/alu0101202952/UyA_Grupo3_Prototipo_Web/tree/desarrollo)
