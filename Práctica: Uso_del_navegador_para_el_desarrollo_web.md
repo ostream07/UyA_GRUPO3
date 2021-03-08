@@ -46,11 +46,11 @@ En esta práctica aprenderemos a usar los navegadores (Google Chrome y Firefox) 
 Peticiones de consulta: **GET**
 > - Firefox:
 
-![https://i.imgur.com/7kXvwx3.jpg]
+![](https://i.imgur.com/7kXvwx3.jpg)
 
 > - Chrome:
 
-![https://i.imgur.com/f0V3eRv.jpg]
+![](https://i.imgur.com/f0V3eRv.jpg)
 
 
 
@@ -63,11 +63,11 @@ Estoy realizando una petición HTTP del tipo **GET**, dicho método solicita una
 
 > - Firefox:
 
-![https://i.imgur.com/FtzlyWS.jpg]
+![](https://i.imgur.com/FtzlyWS.jpg)
 
 > - Chrome:
 
-![https://i.imgur.com/Uxmuc61.jpg]
+![](https://i.imgur.com/Uxmuc61.jpg)
 
 
 
@@ -86,11 +86,11 @@ Cada código tiene un significado:
 
 > - Firefox:
 
- ![https://i.imgur.com/2DwMLlz.jpg]
+ ![](https://i.imgur.com/2DwMLlz.jpg)
 
 > - Chrome:
 
-![https://i.imgur.com/6nF9xdr.jpg]
+![](https://i.imgur.com/6nF9xdr.jpg)
 
 
 
@@ -104,11 +104,11 @@ El DNS o Domain Name System, es un sistema de nomenclatura jerárquico que habil
 
 > - Firefox:
 
-![https://i.imgur.com/0HsLFkc.jpg]
+![](https://i.imgur.com/0HsLFkc.jpg)
 
 > - Chrome:
 
-![https://i.imgur.com/V6Lkj2r.jpg]
+![](https://i.imgur.com/V6Lkj2r.jpg)
 
 
 
@@ -120,11 +120,11 @@ El DNS o Domain Name System, es un sistema de nomenclatura jerárquico que habil
 
 > - Firefox:
 
-![https://i.imgur.com/PwSCpIP.jpg]
+![](https://i.imgur.com/PwSCpIP.jpg)
 
 > - Chrome:
 
-![https://i.imgur.com/GL9GBcS.jpg]
+![](https://i.imgur.com/GL9GBcS.jpg)
 
 
 
@@ -136,12 +136,12 @@ El DNS o Domain Name System, es un sistema de nomenclatura jerárquico que habil
 
 > - Firefox:
 
-![https://i.imgur.com/ITZOjAu.jpg]
+![](https://i.imgur.com/ITZOjAu.jpg)
 
 
 > - Chrome:
 
-![https://i.imgur.com/XG1DlKz.jpg]
+![](https://i.imgur.com/XG1DlKz.jpg)
 
 
 
@@ -153,11 +153,11 @@ El DNS o Domain Name System, es un sistema de nomenclatura jerárquico que habil
 
 > - Firefox:
 
-![https://i.imgur.com/241Q3De.jpg]
+![](https://i.imgur.com/241Q3De.jpg)
 
 > - Chrome:
 
-![https://i.imgur.com/4dULVzP.jpg]
+![](https://i.imgur.com/4dULVzP.jpg)
 
 
 
@@ -169,12 +169,12 @@ El DNS o Domain Name System, es un sistema de nomenclatura jerárquico que habil
 
 > - Firefox:
 
-![https://i.imgur.com/SMaS496.jpg]
+![](https://i.imgur.com/SMaS496.jpg)
 
 
 > - Chrome:
 
-![https://i.imgur.com/wCgifCM.jpg]
+![](https://i.imgur.com/wCgifCM.jpg)
 
 
 
@@ -186,12 +186,12 @@ El DNS o Domain Name System, es un sistema de nomenclatura jerárquico que habil
 
 > - Firefox:
 
-![https://i.imgur.com/UHp2tQC.jpg]
+![](https://i.imgur.com/UHp2tQC.jpg)
 
 
 > - Chrome:
 
-![https://i.imgur.com/atIdHkq.jpg]
+![](https://i.imgur.com/atIdHkq.jpg)
 
 
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
@@ -202,11 +202,11 @@ El DNS o Domain Name System, es un sistema de nomenclatura jerárquico que habil
 
 > - Firefox:
 
-![https://i.imgur.com/XzH7Qnk.jpg]
+![](https://i.imgur.com/XzH7Qnk.jpg)
 
 
 > - Chrome:
 
-![https://i.imgur.com/DoMZCNs.jpg]
+![](https://i.imgur.com/DoMZCNs.jpg)
 
 
